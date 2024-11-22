@@ -9,3 +9,5 @@ a) We propose a low-magnification inflammation annotation dataset that utilizes 
 b) We present a computational pipeline that predicts the inflammation lesion in histopathology images. 
 
 c) We present a computational pipeline that analyzes the population of inflammatory cells with respect to nuclei morphology, lesion morphology, proximity to renal vasculature. 
+
+Codebase and dataset will be added soon
